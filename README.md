@@ -34,3 +34,10 @@
   <img src="https://github.com/duartemariaa/Udemy/assets/107371314/ae8872e3-bac4-4f41-8274-617cefe5136c">
 </div>
 <br>
+
+    6 - Simon Game (jQuery)
+<br>
+<div>
+  <img src="https://github.com/duartemariaa/Udemy/assets/107371314/3bdb0771-f7b3-4413-a08e-d147963f686f">
+</div>
+<br>
