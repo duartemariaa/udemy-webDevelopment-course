@@ -1,5 +1,7 @@
-# Udemy Course
-## Challenges
+# Udemy Web Development Course
+<p>Learning HTML, CSS, Node, React, PostgreSQL with the Udemy Course.</p>
+
+## 🎲Challenges
     1 - Web Design Agency 
 <br>
 <div>
@@ -39,5 +41,26 @@
 <br>
 <div>
   <img src="https://github.com/duartemariaa/Udemy/assets/107371314/3bdb0771-f7b3-4413-a08e-d147963f686f">
+</div>
+<br>
+
+## 🤘Band Generator
+<div>
+  <img src="https://github.com/user-attachments/assets/79b99009-005b-499e-9339-dca9f2d504d8">
+</div>
+
+## 📂PostgreSQL
+
+     World Capital Quiz
+<br>
+<div>
+  <img src="https://github.com/user-attachments/assets/8ea1f2ea-b709-48fc-bfca-e955628ba481">
+</div>
+<br>
+
+     To Do List
+<br>
+<div>
+  <img src="https://github.com/user-attachments/assets/58e5e4cc-7893-4316-9e76-9ddca7de40c0">
 </div>
 <br>
