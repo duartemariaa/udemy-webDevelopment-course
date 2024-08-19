@@ -40,5 +40,7 @@ button:focus-visible {
 
 li {
     color: #000;
+    cursor: pointer;
 }
+
 
